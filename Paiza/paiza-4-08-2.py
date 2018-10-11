@@ -19,7 +19,6 @@
 大吉
 '''
 # おみくじプログラム
-
 import random
 line = input().rstrip().split(",")
 num=len(line)
